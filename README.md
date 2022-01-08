@@ -1,5 +1,11 @@
 ## Hi there, I'm Ananya! 👋
 
+<div align="center" width="50">
+
+<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
+
+</div>
+
 ### I am a Student, Programmer and a Blogger✨
 
 - 🔭 I just launched my first Blogging Website: [GoBlogger](https://ananyachibber21.github.io/GoBlogger.github.io/)
