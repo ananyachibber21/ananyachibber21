@@ -5,7 +5,7 @@
 - 🔭 I just launched my first Blogging Website: [GoBlogger](https://ananyachibber21.github.io/GoBlogger.github.io/)
 - 🌱 I’m currently learning Java, Python and Javascript.
 - 👯 I’m looking forward to get some good internships.
-- 🥅 2021 Goals: Contribute more to Open Source projects.
+- 🥅 2022 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: My extra hobbies include Travel Blogging and Poetry Creation.
 
 ### Connect with me:
@@ -38,17 +38,23 @@
 
 ---
 
-### 📕 Latest Blog Posts
+[![Ananya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ananyachibber21&theme=tokyonight)](https://git.io/praveenscience)
+
+| ![Ananya's github stats](https://github-readme-stats.vercel.app/api?username=ananyachibber21&show_icons=true&theme=tokyonight) | ![Ananya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aditya664&theme=tokyonight) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ananyachibber21&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=ananyachibber21&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+
+<!-- ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Traveling changes us in the way that we can grow to the fullest.](https://www.linkedin.com/feed/update/urn:li:activity:6837635256829538304/)
+<!-- - [Traveling changes us in the way that we can grow to the fullest.](https://www.linkedin.com/feed/update/urn:li:activity:6837635256829538304/)
 - [Travel Plans in Pandemic](https://www.linkedin.com/feed/update/urn:li:activity:6835452356893794304/)
 - [How to follow - Work, Save, Travel, Repeat!](https://www.linkedin.com/posts/ananya-chibber-4291161bb_indiaghumo-travel-fun-activity-6824575103104368640-XDdU)
 - [How to Travel Solo!](https://www.linkedin.com/posts/ananya-chibber-4291161bb_indiaghumo-travel-adventure-activity-6820587987794042880-Ab2M)
-- [People do not change with time but they change with the priorities they define...](https://wordpress.com/post/mygoldensparks.wordpress.com/24)
+- [People do not change with time but they change with the priorities they define...](https://wordpress.com/post/mygoldensparks.wordpress.com/24) -->
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://wordpress.com/view/mygoldensparks.wordpress.com)
-
+<!-- ➡️ [more blog posts...](https://wordpress.com/view/mygoldensparks.wordpress.com)
+ -->
 ---
 
