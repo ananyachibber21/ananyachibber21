@@ -46,14 +46,14 @@
     <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40" />
   </a>--> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql" width="40" height="40" /> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img
+      alt="mysql" width="40" height="40" /> </a> <!--<a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs"
-      width="40" height="40" /> </a> <!--<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
+      width="40" height="40" /> </a>--> <!--<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs" width="40" height="40" /> </a>--> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+      alt="nodejs" width="40" height="40" /> </a>--> <!--<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
-      alt="pandas" width="40" height="40" /> </a> <!--<a href="https://www.photoshop.com/en" target="_blank"
+      alt="pandas" width="40" height="40" /> </a>--> <!--<a href="https://www.photoshop.com/en" target="_blank"
     rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop"
       width="40" height="40" /> </a>--> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
@@ -62,7 +62,11 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       alt="react" width="40" height="40" /> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"
-      height="40" /> </a>--> </p>
+      height="40" /> </a>--> <a href="https://www.git.com" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git"
+      width="40" height="40" /> </a>  <a href="https://www.github.com" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="gitHub"
+      width="40" height="40" /> </a></p>
 
 <!-- [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://www.youtube.com/channel/UCUz9AujtXw9QT3ztycomZqQ)
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://www.youtube.com/channel/UCUz9AujtXw9QT3ztycomZqQ)
