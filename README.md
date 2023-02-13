@@ -90,7 +90,8 @@
 
 ---
 
-[![Ananya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ananyachibber21&theme=tokyonight)](https://git.io/praveenscience)
+[![Ananya's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ananyachibber21)](https://github.com/ananyachibber21cd desktop
+/github-readme-activity-graph)
 
 | ![Ananya's github stats](https://github-readme-stats.vercel.app/api?username=ananyachibber21&show_icons=true&theme=tokyonight) | ![Ananya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ananyachibber21&theme=tokyonight) |
 | --- | --- |
