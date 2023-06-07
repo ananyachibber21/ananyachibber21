@@ -7,9 +7,9 @@
 ### I am a Student, Programmer and a Blogger✨
 
 - 🔭 I just launched my first Blogging Website: [GoBlogger](https://ananyachibber21.github.io/GoBlogger.github.io/)
-- 🌱 I’m currently learning Java, Python and Javascript.
-- 👯 I’m looking forward to get some good internships.
-- 🥅 2022 Goals: Contribute more to Open Source projects.
+- 🌱 I’m currently learning Python, Data Structures, Machine Learning and Artificial Intelligence.
+- 👯 I’m looking forward to get some good internships, projects and opportunities.
+- 🥅 2024 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: My extra hobbies include Travel Blogging and Poetry Creation.
 
 ### Connect with me:
