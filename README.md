@@ -1,7 +1,7 @@
-## Hi there, I'm Ananya! 👋
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ʜᴇʟʟᴏ, ɪ ᴀᴍ ᴀɴᴀɴʏᴀ! 
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ananyachibber21" alt="Ananya Chibber" />
+  <img src="https://komarev.com/ghpvc/?username=ananyachibber21" alt="Ananya Chibber"  style="padding-right:20px;/>
 </p>
 
 ### I am a Student, Programmer and a Blogger✨
