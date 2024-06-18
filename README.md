@@ -1,16 +1,16 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ʜᴇʟʟᴏ, ɪ ᴀᴍ ᴀɴᴀɴʏᴀ! 
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ananyachibber21" alt="Ananya Chibber"  style="padding-right:20px;/>
-</p>
+### A Data Science and Machine Learning Enthusiast. ✨
 
-### I am a Student, Programmer and a Blogger✨
-
-- 🔭 I just launched my first Blogging Website: [GoBlogger](https://ananyachibber21.github.io/GoBlogger.github.io/)
-- 🌱 I’m currently learning Python, Data Structures, Machine Learning and Artificial Intelligence.
+- 🔭 My first Blogging Website: [GoBlogger](https://ananyachibber21.github.io/GoBlogger.github.io/)
+- 🌱 My work is on Python, Data Structures, Databases, Machine Learning and Artificial Intelligence.
 - 👯 I’m looking forward to get some good internships, projects and opportunities.
 - 🥅 2024 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: My extra hobbies include Travel Blogging and Poetry Creation.
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ananyachibber21" alt="Ananya Chibber"  style="padding-right:20px;"/>
+</p>
 
 ### Connect with me:
 
