@@ -90,7 +90,7 @@
 
 ---
 
-[![Ananya's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ananyachibber21)](https://github.com/ananyachibber21/github-readme-activity-graph)
+[![Ananya's GitHub Activity Graph]<img src="https://github-readme-activity-graph.vercel.app/graph?username=ananyachibber21&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
 
 | ![Ananya's github stats](https://github-readme-stats.vercel.app/api?username=ananyachibber21&show_icons=true&theme=tokyonight) | ![Ananya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ananyachibber21&theme=tokyonight) |
 | --- | --- |
