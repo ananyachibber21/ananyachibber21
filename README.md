@@ -16,11 +16,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Ananya Chibber | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ananya-chibber-4291161bb/)
-[<img align="left" alt="Ananya Chibber | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/Ananya89509781)
-[<img align="left" alt="Ananya Chibber | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/ananya_unique21/)
-[<img align="left" alt="Ananya Chibber | Wordpress" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" />](https://wordpress.com/view/mygoldensparks.wordpress.com)
-[<img align="left" alt="Ananya Chibber | HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />](https://www.hackerrank.com/ananya20csu205)
+[<img align="left" alt="Ananya Chibber | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ananya-chibber-4291161bb/)
+[<img align="left" alt="Ananya Chibber | Twitter" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/Ananya89509781)
+[<img align="left" alt="Ananya Chibber | Instagram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/ananya_unique21/)
+[<img align="left" alt="Ananya Chibber | Wordpress" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" />](https://wordpress.com/view/mygoldensparks.wordpress.com)
+[<img align="left" alt="Ananya Chibber | HackerRank" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />](https://www.hackerrank.com/ananya20csu205)
 
 <br />
 
@@ -71,7 +71,7 @@
 
 | ![Ananya's github stats](https://github-readme-stats.vercel.app/api?username=ananyachibber21&show_icons=true&theme=tokyonight) | ![Ananya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ananyachibber21&theme=tokyonight) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ananyachibber21&theme=tokyonight&layout=compact) | <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" /> |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ananyachibber21&theme=tokyonight&layout=compact) | <img align="center" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" /> |
 
 ---
 
