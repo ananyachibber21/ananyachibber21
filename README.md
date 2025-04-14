@@ -5,7 +5,7 @@
 - 🔭 My first Blogging Website: [GoBlogger](https://ananyachibber21.github.io/GoBlogger.github.io/)
 - 🌱 My work is on Python, Data Structures, Databases, Machine Learning, and Artificial Intelligence.
 - 👯 I’m looking forward to get some good internships, projects, and opportunities.
-- 🥅 2024 Goals: Contribute more to Open Source projects.
+- 🥅 2025 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: My extra hobbies include Travel Blogging and Poetry Creation.
 
 <p align="left">
